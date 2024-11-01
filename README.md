@@ -16,7 +16,7 @@ Menu é uma aplicação web para visualizar o cardápio do restaurante e realiza
 * Backend: Nest.js
   * Motivação: Pela arquitetura de projeto que o framework trás consigo.
 * Banco de dados: PostgreSQL
-  * Motivação: Possuo maior expiência tanto criando projetos utilizando o PostgreSQL quanto dando manutenção.
+  * Motivação: Possuo maior expiriência tanto criando projetos utilizando o PostgreSQL quanto dando manutenção.
 * ORM: Prisma
   * Motivação: Aumento de legibilidade do código e fácil uso com TypeScript.
 
@@ -40,7 +40,7 @@ git clone https://github.com/thalesms2/menu-f
 git clone https://github.com/thalesms2/menu-b
 ```
 
-2. Instale as depencias de ambos os projetos:
+2. Instale as dependencias de ambos os projetos:
 
 ```bash
 cd menu-f
@@ -91,10 +91,10 @@ npm run dev
 
 ### Arquitetura Geral
 
-* Frontend (react):
+* Frontend (React.js):
   * Função: Visualizar o cardápio obtido da api e fazer reservas.
 * Backend (Nest.js):
-  * Função: Gerencia as requisições, manupula os dados e se comunica com o banco de dados
+  * Função: Gerencia as requisições, manipula os dados e se comunica com o banco de dados.
 * Banco de dados (PostgreSQL):
   * Função: Armazena as informações do cardápio e reservas feitas.
   * Modelo de dados:
@@ -134,7 +134,7 @@ Alguns dos principais desafios foram aprender e executar testes unitários no ba
 - [ ] Melhorar usabilidade do seletor de data/hora para fazer uma reserva;
 - [ ] Adicionar testes unitários para o frontend;
 - [ ] Melhorar a documentação do swagger;
-- [ ] Aumentar a quantidade de testes unitários para validar mais situações;
+- [ ] Aumentar a quantidade de testes unitários no backend para validar mais situações;
 
 ### Referências
 
