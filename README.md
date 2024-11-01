@@ -7,7 +7,7 @@ Menu é uma aplicação web para visualizar o cardápio do restaurante e realiza
 ## Aplicação Hospedada
 
 [Frontend](https://menu-f.vercel.app/) |
-[Backend](https://menu-b.vercel.app/)
+[Backend](https://menu-b.vercel.app/swagger)
 
 ## Decisões Técnicas
 
