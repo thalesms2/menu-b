@@ -131,10 +131,10 @@ Alguns dos principais desafios foram aprender e executar testes unitários no ba
 
 ### Melhorias Futuras
 
-[ ] Melhorar usabilidade do seletor de data/hora para fazer uma reserva;
-[ ] Adicionar testes unitários para o frontend;
-[ ] Melhorar a documentação do swagger;
-[ ] Aumentar a quantidade de testes unitários para validar mais situações;
+- [ ] Melhorar usabilidade do seletor de data/hora para fazer uma reserva;
+- [ ] Adicionar testes unitários para o frontend;
+- [ ] Melhorar a documentação do swagger;
+- [ ] Aumentar a quantidade de testes unitários para validar mais situações;
 
 ### Referências
 
